@@ -11,4 +11,4 @@ estructuras y conceptos.
     para cada una de los elementos del lenguaje definido.
 </ul>
 
-El programa lee un archivo base, y por medio de Lex, se va identificando la instrucción, otorgando una posición dentro de la tabla que corresponda. 
+El programa lee un archivo base, y por medio de Lex, se va identificando la instrucción, y se crea la cadena de atomos que se verifica con las funciones que representan las gramaticas. 
